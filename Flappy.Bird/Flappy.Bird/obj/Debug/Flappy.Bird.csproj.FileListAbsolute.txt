@@ -8,3 +8,13 @@ C:\Users\90542\source\repos\Flappy.Bird\Flappy.Bird\obj\Debug\Flappy.Bird.csproj
 C:\Users\90542\source\repos\Flappy.Bird\Flappy.Bird\obj\Debug\Flappy.Bird.csproj.CoreCompileInputs.cache
 C:\Users\90542\source\repos\Flappy.Bird\Flappy.Bird\obj\Debug\Flappy.Bird.exe
 C:\Users\90542\source\repos\Flappy.Bird\Flappy.Bird\obj\Debug\Flappy.Bird.pdb
+C:\yazılım\Formapps\Flappy.Bird\Flappy.Bird\bin\Debug\Flappy.Bird.exe.config
+C:\yazılım\Formapps\Flappy.Bird\Flappy.Bird\bin\Debug\Flappy.Bird.exe
+C:\yazılım\Formapps\Flappy.Bird\Flappy.Bird\bin\Debug\Flappy.Bird.pdb
+C:\yazılım\Formapps\Flappy.Bird\Flappy.Bird\obj\Debug\Flappy.Bird.csprojAssemblyReference.cache
+C:\yazılım\Formapps\Flappy.Bird\Flappy.Bird\obj\Debug\Flappy.Bird.Form1.resources
+C:\yazılım\Formapps\Flappy.Bird\Flappy.Bird\obj\Debug\Flappy.Bird.Properties.Resources.resources
+C:\yazılım\Formapps\Flappy.Bird\Flappy.Bird\obj\Debug\Flappy.Bird.csproj.GenerateResource.cache
+C:\yazılım\Formapps\Flappy.Bird\Flappy.Bird\obj\Debug\Flappy.Bird.csproj.CoreCompileInputs.cache
+C:\yazılım\Formapps\Flappy.Bird\Flappy.Bird\obj\Debug\Flappy.Bird.exe
+C:\yazılım\Formapps\Flappy.Bird\Flappy.Bird\obj\Debug\Flappy.Bird.pdb
